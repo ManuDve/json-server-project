@@ -1,0 +1,177 @@
+{
+    "estudiantes": [
+      {
+        "studentId": 1,
+        "name": "Alicia",
+        "surname": "Pérez",
+        "career": {
+          "careerId": 1,
+          "name": "Diseño"
+        }
+      },
+      {
+        "studentId": 2,
+        "name": "Rául",
+        "surname": "Muñoz",
+        "career": {
+          "careerId": 1,
+          "name": "Diseño"
+        }
+      },
+      {
+        "studentId": 3,
+        "name": "Carlos",
+        "surname": "López",
+        "career": {
+          "careerId": 2,
+          "name": "Informática"
+        }
+      },
+      {
+        "studentId": 4,
+        "name": "María",
+        "surname": "González",
+        "career": {
+          "careerId": 2,
+          "name": "Informática"
+        }
+      },
+      {
+        "studentId": 5,
+        "name": "Pedro",
+        "surname": "Sánchez",
+        "career": {
+          "careerId": 3,
+          "name": "Actuación"
+        }
+      },
+      {
+        "studentId": 6,
+        "name": "Lucía",
+        "surname": "Torres",
+        "career": {
+          "careerId": 3,
+          "name": "Actuación"
+        }
+      },
+      {
+        "studentId": 7,
+        "name": "Sofía",
+        "surname": "Ramírez",
+        "career": {
+          "careerId": 4,
+          "name": "Administración"
+        }
+      },
+      {
+        "studentId": 8,
+        "name": "Javier",
+        "surname": "Hernández",
+        "career": {
+          "careerId": 4,
+          "name": "Administración"
+        }
+      },
+      {
+        "studentId": 9,
+        "name": "Camila",
+        "surname": "Díaz",
+        "career": {
+          "careerId": 5,
+          "name": "Psicología"
+        }
+      },
+      {
+        "studentId": 10,
+        "name": "Andrés",
+        "surname": "Ortiz",
+        "career": {
+          "careerId": 5,
+          "name": "Psicología"
+        }
+      }
+    ],
+    "cursos": [
+      {
+        "career": "Diseño",
+        "course": "Diseño 101",
+        "students": [
+          {
+            "studentId": 1,
+            "name": "Alicia",
+            "surname": "Pérez"
+          },
+          {
+            "studentId": 2,
+            "name": "Rául",
+            "surname": "Muñoz"
+          }
+        ]
+      },
+      {
+        "career": "Informática",
+        "course": "Informática 101",
+        "students": [
+          {
+            "studentId": 3,
+            "name": "Carlos",
+            "surname": "López"
+          },
+          {
+            "studentId": 4,
+            "name": "María",
+            "surname": "González"
+          }
+        ]
+      },
+      {
+        "career": "Actuación",
+        "course": "Actuación 101",
+        "students": [
+          {
+            "studentId": 5,
+            "name": "Pedro",
+            "surname": "Sánchez"
+          },
+          {
+            "studentId": 6,
+            "name": "Lucía",
+            "surname": "Torres"
+          }
+        ]
+      },
+      {
+        "career": "Administración",
+        "course": "Administración 101",
+        "students": [
+          {
+            "studentId": 7,
+            "name": "Sofía",
+            "surname": "Ramírez"
+          },
+          {
+            "studentId": 8,
+            "name": "Javier",
+            "surname": "Hernández"
+          }
+        ]
+      },
+      {
+        "career": "Psicología",
+        "course": "Psicología 101",
+        "students": [
+          {
+            "studentId": 9,
+            "name": "Camila",
+            "surname": "Díaz"
+          },
+          {
+            "studentId": 10,
+            "name": "Andrés",
+            "surname": "Ortiz"
+          }
+        ]
+      }
+    ]
+  }
+  

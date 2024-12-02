@@ -1,0 +1,4 @@
+{
+    "/api/estudiantes": "/estudiantes",
+    "/api/cursos": "/cursos"
+  }
